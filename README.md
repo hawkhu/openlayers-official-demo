@@ -51,7 +51,7 @@ openlayers official demo hosted on codepen.io.This is a content.
 - <td class="title" title="Freehand Drawing 自由绘制"><a href="https://codepen.io/acenudt/pen/JQajyB">Freehand Drawing 自由绘制</a></td>
 - <td class="title" title="Flight Animation 航班动画"><a href="https://codepen.io/acenudt/pen/WqgpYy">Flight Animation 航班动画</a></td>
 - <td class="title" title="Fractal Rendering——分形渲染"><a href="https://codepen.io/acenudt/pen/PrVEer">Fractal Rendering——分形渲染</a></td>
-- <td class="title" title="Full Screen Control with extended source element——带扩展源元素的全屏控件"><a href="https://codepen.io/acenudt/pen/OedzGP">Full Screen Control with extended source element——带扩展源元素的全屏控件</a></td>
+- <td class="title" title="Full Screen Control with extended source element——带扩展源元素的全屏控件"><a href="https://codepen.io/acenudt/pen/VJgQwN">Full Screen Control with extended source element——带扩展源元素的全屏控件</a></td>
 - <td class="title" title="Full Screen Drag, Rotate, and Zoom——全屏拖拽、旋转和缩放"><a href="https://codepen.io/acenudt/pen/zVeRKL">Full Screen Drag, Rotate, and Zoom——全屏拖拽、旋转和缩放</a></td>
 - <td class="title" title="Full Screen Control——全屏控件"><a href="https://codepen.io/acenudt/pen/MMLQEV">Full Screen Control——全屏控件</a></td>
 
