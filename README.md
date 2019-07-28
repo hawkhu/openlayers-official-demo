@@ -28,7 +28,7 @@ openlayers official demo hosted on codepen.io.This is a content.
 
 ## D
 - <td class="title" title="d3 Integration d3库的集成演示"><a href="https://codepen.io/acenudt/pen/mZjYQz">d3 Integration d3库的集成演示</a></td>
-- <td class="title" title="Drag-and-Drop Image Vector 拖放图像矢量对象"><a href="https://codepen.io/acenudt/pen/QXBXLj">Drag-and-Drop Image Vector 拖放图像矢量对象</a></td>
+- <td class="title" title="Drag-and-Drop Image Vector 使用拖放文件渲染矢量图像"><a href="https://codepen.io/acenudt/pen/QXBXLj">Drag-and-Drop Image Vector 使用拖放文件渲染矢量图像</a></td>
 - <td class="title" title="Draw and Modify Features 要素的绘制与修改"><a href="https://codepen.io/acenudt/pen/ewjwMy">Draw and Modify Features 要素的绘制与修改</a></td>
 - <td class="title" title="Drag, Rotate, and Zoom 拖拽、旋转和缩放"><a href="https://codepen.io/acenudt/pen/ewjqGx">Drag, Rotate, and Zoom 拖拽、旋转和缩放</a></td>
 - <td class="title" title="Draw Features 要素绘制"><a href="https://codepen.io/acenudt/pen/NZLWdx">Draw Features 要素绘制</a></td>
