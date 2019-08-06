@@ -44,4 +44,4 @@ function runMagnify(mousePosition,event)
         }
       }
 
-export {runMagnify}
+export { runMagnify }
