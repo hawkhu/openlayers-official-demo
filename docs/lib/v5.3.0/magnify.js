@@ -1,4 +1,4 @@
-function runMagnify(mousePosition,event)
+export default function runMagnify(mousePosition,event)
 {
  if (mousePosition) {
           var context = event.context;
