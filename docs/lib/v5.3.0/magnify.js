@@ -42,6 +42,6 @@ function runMagnify(mousePosition,event)
           context.stroke();
           context.restore();
         }
-      };
-}
+      }
+
 export {runMagnify}
