@@ -42,5 +42,5 @@ export default function runMagnify(mousePosition,event)
           context.stroke();
           context.restore();
         }
-      });
+      };
 }
