@@ -1,4 +1,4 @@
-export function runMagnify(mousePosition,event)
+function runMagnify(mousePosition,event)
 {
  if (mousePosition) {
           var context = event.context;
@@ -44,3 +44,4 @@ export function runMagnify(mousePosition,event)
         }
       };
 }
+export {runMagnify}
